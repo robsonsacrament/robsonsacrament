@@ -8,7 +8,7 @@
 Sou um **profissional em transição de carreira**, dedicado a desenvolver novas habilidades na área de tecnologia. 
 Atualmente, estou construindo meus primeiros projetos web e desenvolvendo habilidades em **HTML**, **CSS**, e **versionamento de código com Git e GitHub**.
 
-🚀 **Objetivo:** é aplicar cada novo conhecimento em projetos reais, sempre buscando evoluir como desenvolvedor e conquistar minha primeira oportunidade na área.
+🚀 **Objetivo:** é aplicar cada novo conhecimento em projetos reais, sempre buscando evoluir como desenvolvedor e **conquistar minha primeira oportunidade na área.**
 
 ---
 
