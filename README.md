@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Olá, eu sou o Robson Sacramento!</h1>
-<h3 align="center">💻 Iniciante em Desenvolvimento Web | Aprendendo HTML, CSS, Git e GitHub</h3>
+<h3 align="center">💻 Desenvolvedor Web em formação | Foco em HTML, CSS, Git e GitHub</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 Sou um **profissional em transição de carreira**, dedicado a desenvolver novas habilidades na área de tecnologia. 
 Atualmente, estou construindo meus primeiros projetos web e desenvolvendo habilidades em **HTML**, **CSS**, e **versionamento de código com Git e GitHub**.
 
-🚀 **Objetivo:** Criar automações e projetos web completos, integrando o que aprendi em design, lógica e versionamento.
+🚀 **Objetivo:** é aplicar cada novo conhecimento em projetos reais, sempre buscando evoluir como desenvolvedor e conquistar minha primeira oportunidade na área.
 
 ---
 
@@ -28,16 +28,16 @@ Atualmente, estou construindo meus primeiros projetos web e desenvolvendo habili
 ### 🧩 Projetos que estou desenvolvendo
 📌 **We Care — Meu primeiro site completo**
 > Página moderna com layout responsivo, botões, links e imagem integrada.  
-> Linguagens usadas: `HTML`, `CSS`  
-> Conceitos aplicados: estrutura semântica, classes, estilos e hierarquia visual.
+> **Linguagens usadas:** `HTML`, `CSS`  
+> **Conceitos aplicados:** estrutura semântica, classes, estilos e hierarquia visual.
 
 ---
 
 ### 🌱 Próximos passos
 - Aprender **JavaScript** e manipulação do DOM
-- Aprender **Node** e **React**.
-- Criar **projetos interativos**  
-- Publicar **portfólio profissional**  
+- Aprender **Node** e **React**
+- Criar **projetos interativos / dinâmicos**  
+- Publicar meu **portfólio profissional**  
 
 ---
 
