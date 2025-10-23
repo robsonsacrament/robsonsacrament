@@ -25,6 +25,8 @@ Atualmente, estou construindo meus primeiros projetos web e desenvolvendo habili
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonsacrament&hide_progress=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonsacrament&layout=compact)
+
 ---
 
 ### 🧩 Projetos que estou desenvolvendo
