@@ -21,10 +21,6 @@ Atualmente, estou construindo meus primeiros projetos web e desenvolvendo habili
 ✅ **Extensões úteis** → Melhorando produtividade no código  
 
 [![Robson Sacramento](https://github-readme-stats.vercel.app/api?username=robsonsacrament)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonsacrament)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonsacrament&hide_progress=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonsacrament&layout=compact)
 
 ---
