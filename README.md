@@ -13,7 +13,7 @@ Atualmente, estou construindo meus primeiros projetos web e desenvolvendo habili
 ---
 
 ### 💡 Tecnologias que aprendi até agora:
-✅ <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-loho"/> → Estrutura das páginas web  
+✅ **HTML**→ Estrutura das páginas web  
 ✅ **CSS3** → Estilos e design visual  
 ✅ **VS Code** → Ambiente de desenvolvimento  
 ✅ **Git & GitHub** → Versionamento e colaboração  
