@@ -1,40 +1,31 @@
 <!-- Banner -->
 <h1 align="center">👋 Olá, eu sou o Robson Sacramento!</h1>
-<h3 align="center">💻 Desenvolvedor Web em formação | Foco em HTML, CSS, Git e GitHub</h3>
+<h3 align="center">💻 Desenvolvedor Web em formação | Foco em HTML, CSS, JavaScript e GitHub</h3>
 
 ---
 
 ### 🧠 Sobre mim
 Sou um **profissional em transição de carreira**, dedicado a desenvolver novas habilidades na área de tecnologia. 
-Atualmente, estou construindo meus primeiros projetos web e desenvolvendo habilidades em **HTML**, **CSS**, e **versionamento de código com Git e GitHub**.
+Atualmente, estou construindo meus primeiros projetos web e desenvolvendo habilidades em **HTML**, **CSS**, **JavaScript** e **versionamento de código com Git e GitHub**.
 
-🚀 **Objetivo:** é aplicar cada novo conhecimento em projetos reais, sempre buscando evoluir como desenvolvedor e **conquistar minha primeira oportunidade na área.**
-
----
-
-### 💡 Tecnologias que aprendi até agora:
-✅ **HTML**→ Estrutura das páginas web  
-✅ **CSS3** → Estilos e design visual  
-✅ **VS Code** → Ambiente de desenvolvimento  
-✅ **Git & GitHub** → Versionamento e colaboração  
-✅ **Figma** → Criação e prototipagem de interfaces  
-✅ **Extensões úteis** → Melhorando produtividade no código  
-
-[![Robson Sacramento](https://github-readme-stats.vercel.app/api?username=robsonsacrament)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonsacrament&layout=compact)
+🚀 **Objetivo:** é aplicar cada novo conhecimento em projetos reais, sempre buscando evoluir como desenvolvedor e <br> **conquistar minha primeira oportunidade na área.**
 
 ---
 
-### 🧩 Projetos que estou desenvolvendo
-📌 **We Care — Meu primeiro site completo**
-> Página moderna com layout responsivo, botões, links e imagem integrada.  
-> **Linguagens usadas:** `HTML`, `CSS`  
-> **Conceitos aplicados:** estrutura semântica, classes, estilos e hierarquia visual.
+### 💡Tecnologias que aprendi até agora:  
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&cacheSeconds=60) ![HTML](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blac) ![HTML](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![HTML](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)   
+
+---
+
+### 🧩 Projetos - Portfólio de Desenvolvimento
+📌 **Clínica Odontológica - 2º Projeto** https://robsonsacrament.github.io/odontologia/  
+Site profissional para clínica odontológica, desenvolvido com HTML, CSS e JavaScript. Inclui layout moderno, seções informativas, formulário de contato, responsividade completa e foco em credibilidade. Projeto pensado para elevar presença digital, gerar confiança e aumentar a conversão de pacientes.  
+📌 **Agropecuária Pet — 1º Projeto** https://robsonsacrament.github.io/agropecuaria-pet/    
+Site profissional desenvolvido com HTML, CSS e JavaScript, incluindo menu dinâmico, páginas de serviços, animações e experiência mobile premium. Projeto focado em conversão, performance e UX moderna para empresas do setor pet ou serviços locais.  
 
 ---
 
 ### 🌱 Próximos passos
-- Aprender **JavaScript** e manipulação do DOM
 - Aprender **Node** e **React**
 - Criar **projetos interativos / dinâmicos**  
 - Publicar meu **portfólio profissional**  
